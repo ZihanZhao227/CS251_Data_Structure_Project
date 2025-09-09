@@ -1,0 +1,6 @@
+5
+0 0 0 CITY StartCity
+1 20 10 CHARGING_STATION ChargingStation1
+2 30 0 RESTAURANT Restaurant1
+3 40 20 CHARGING_STATION ChargingStation2
+4 50 0 CITY DestinationCity

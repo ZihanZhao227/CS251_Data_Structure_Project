@@ -1,0 +1,7 @@
+6
+0 0 0 CITY StartCity
+1 50 0 RESTAURANT Restaurant1
+2 100 0 CHARGING_STATION ChargingStation1
+3 200 0 TOURIST_ATTRACTION Museum1
+4 300 0 CHARGING_STATION ChargingStation2
+5 400 0 CITY DestinationCity

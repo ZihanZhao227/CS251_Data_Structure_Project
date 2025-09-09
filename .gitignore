@@ -1,0 +1,47 @@
+### OS ###
+.DS_Store
+
+### IntelliJ IDEA / JetBrains ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### Java build outputs ###
+out/
+build/
+target/
+bin/
+
+### Java misc ###
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+### Gradle ###
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Maven ###
+# keep the wrapper jar if you use Maven
+!.mvn/wrapper/maven-wrapper.jar
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
